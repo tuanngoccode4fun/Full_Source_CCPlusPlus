@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/file1.h
+
+../include/file2.h
+
+/home/tuanngoc/sambashare/01_C_language/00_Hello_world/main.c
+stdio.h
+-
+stdint.h
+-
+file1.h
+/home/tuanngoc/sambashare/01_C_language/00_Hello_world/file1.h
+file2.h
+/home/tuanngoc/sambashare/01_C_language/00_Hello_world/file2.h
+

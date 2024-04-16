@@ -1,0 +1,3 @@
+/home/tuanngoc/sambashare/01_C_language/00_Hello_world/build/CMakeFiles/rebuild_cache.dir
+/home/tuanngoc/sambashare/01_C_language/00_Hello_world/build/CMakeFiles/edit_cache.dir
+/home/tuanngoc/sambashare/01_C_language/00_Hello_world/build/CMakeFiles/my_executable.dir
