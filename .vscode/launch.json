@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/01_Source_Git/Full_Source_CCPlusPlus/02_Algorithm/01_Array",
-      "program": "c:/01_Source_Git/Full_Source_CCPlusPlus/02_Algorithm/01_Array/build/Debug/outDebug",
+      "cwd": "c:/01_Source_Git/Full_Source_CCPlusPlus/02_Algorithm",
+      "program": "c:/01_Source_Git/Full_Source_CCPlusPlus/02_Algorithm/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
