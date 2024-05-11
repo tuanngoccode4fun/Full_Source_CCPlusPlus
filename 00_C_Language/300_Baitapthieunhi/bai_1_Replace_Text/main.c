@@ -1,9 +1,11 @@
-#include<stdio.h>
+#include <stdio.h>
 #include <string.h>
-char *text = "255.1.1.0";
+char text[] = "255.1.1.0";
 char array[100];
-int getsizeofcharpoint(char * input)
+
+int getsizeofcharpoint(char input[])
 {
+    printf("size of text pass in function = %d \r\n",sizeof(input));
     int i = 0;
     while (*(input + i))
     {
@@ -38,6 +40,7 @@ void findIndexCom(char *textInput, int length)
 }
 int main()
 {
+    printf("size of text = %d \r\n",sizeof(text) );
     findIndexCom(text,getsizeofcharpoint(text));
 
     return 0;
